@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nandinipatel183/LeetHub/tree/master/0006-zigzag-conversion) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
