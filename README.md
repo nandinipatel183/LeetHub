@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nandinipatel183/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nandinipatel183/LeetHub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nandinipatel183/LeetHub/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nandinipatel183/LeetHub/tree/master/0031-next-permutation) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nandinipatel183/LeetHub/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/nandinipatel183/LeetHub/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nandinipatel183/LeetHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
