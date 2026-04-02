@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nandinipatel183/LeetHub/tree/master/0006-zigzag-conversion) |
+| [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nandinipatel183/LeetHub/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nandinipatel183/LeetHub/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
+| [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/nandinipatel183/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
