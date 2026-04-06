@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nandinipatel183/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nandinipatel183/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nandinipatel183/LeetHub/tree/master/0704-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/nandinipatel183/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nandinipatel183/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nandinipatel183/LeetHub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nandinipatel183/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nandinipatel183/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
 | [2965-find-missing-and-repeated-values](https://github.com/nandinipatel183/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nandinipatel183/LeetHub/tree/master/0054-spiral-matrix) |
+| [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandinipatel183/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
