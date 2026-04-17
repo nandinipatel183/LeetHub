@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nandinipatel183/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nandinipatel183/LeetHub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nandinipatel183/LeetHub/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0043-multiply-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nandinipatel183/LeetHub/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nandinipatel183/LeetHub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nandinipatel183/LeetHub/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nandinipatel183/LeetHub/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nandinipatel183/LeetHub/tree/master/0054-spiral-matrix) |
 | [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandinipatel183/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
