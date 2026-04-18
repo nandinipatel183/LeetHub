@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nandinipatel183/LeetHub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nandinipatel183/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/nandinipatel183/LeetHub/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nandinipatel183/LeetHub/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nandinipatel183/LeetHub/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nandinipatel183/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nandinipatel183/LeetHub/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandinipatel183/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
