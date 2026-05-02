@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0328-odd-even-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
