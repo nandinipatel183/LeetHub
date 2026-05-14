@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/nandinipatel183/LeetHub/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/nandinipatel183/LeetHub/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nandinipatel183/LeetHub/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/nandinipatel183/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinipatel183/LeetHub/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandinipatel183/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0876-middle-of-the-linked-list) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nandinipatel183/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
