@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nandinipatel183/LeetHub/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/nandinipatel183/LeetHub/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/nandinipatel183/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nandinipatel183/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nandinipatel183/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nandinipatel183/LeetHub/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/nandinipatel183/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0876-middle-of-the-linked-list) |
