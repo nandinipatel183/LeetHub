@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nandinipatel183/LeetHub/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/nandinipatel183/LeetHub/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/nandinipatel183/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nandinipatel183/LeetHub/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/nandinipatel183/LeetHub/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/nandinipatel183/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/nandinipatel183/LeetHub/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
