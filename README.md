@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nandinipatel183/LeetHub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nandinipatel183/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nandinipatel183/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nandinipatel183/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandinipatel183/LeetHub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/nandinipatel183/LeetHub/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nandinipatel183/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nandinipatel183/LeetHub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nandinipatel183/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -277,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nandinipatel183/LeetHub/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nandinipatel183/LeetHub/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
