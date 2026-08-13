@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nandinipatel183/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/nandinipatel183/LeetHub/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/nandinipatel183/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nandinipatel183/LeetHub/tree/master/0503-next-greater-element-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nandinipatel183/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nandinipatel183/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/nandinipatel183/LeetHub/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/nandinipatel183/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandinipatel183/LeetHub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
