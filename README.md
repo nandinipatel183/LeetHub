@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nandinipatel183/LeetHub/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/nandinipatel183/LeetHub/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/nandinipatel183/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/nandinipatel183/LeetHub/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandinipatel183/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nandinipatel183/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nandinipatel183/LeetHub/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nandinipatel183/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/nandinipatel183/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [2615-sum-of-distances](https://github.com/nandinipatel183/LeetHub/tree/master/2615-sum-of-distances) |
 | [2965-find-missing-and-repeated-values](https://github.com/nandinipatel183/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nandinipatel183/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/nandinipatel183/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandinipatel183/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nandinipatel183/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
