@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/nandinipatel183/LeetHub/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nandinipatel183/LeetHub/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/nandinipatel183/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nandinipatel183/LeetHub/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/nandinipatel183/LeetHub/tree/master/1922-count-good-numbers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nandinipatel183/LeetHub/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/nandinipatel183/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nandinipatel183/LeetHub/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nandinipatel183/LeetHub/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nandinipatel183/LeetHub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nandinipatel183/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nandinipatel183/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nandinipatel183/LeetHub/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
