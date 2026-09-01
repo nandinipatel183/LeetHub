@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandinipatel183/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nandinipatel183/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nandinipatel183/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nandinipatel183/LeetHub/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nandinipatel183/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nandinipatel183/LeetHub/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/nandinipatel183/LeetHub/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/nandinipatel183/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nandinipatel183/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [2615-sum-of-distances](https://github.com/nandinipatel183/LeetHub/tree/master/2615-sum-of-distances) |
 | [2965-find-missing-and-repeated-values](https://github.com/nandinipatel183/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nandinipatel183/LeetHub/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nandinipatel183/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nandinipatel183/LeetHub/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nandinipatel183/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/nandinipatel183/LeetHub/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/nandinipatel183/LeetHub/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/nandinipatel183/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nandinipatel183/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandinipatel183/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nandinipatel183/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nandinipatel183/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2615-sum-of-distances](https://github.com/nandinipatel183/LeetHub/tree/master/2615-sum-of-distances) |
 ## Union-Find
@@ -391,5 +395,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nandinipatel183/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nandinipatel183/LeetHub/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandinipatel183/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nandinipatel183/LeetHub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nandinipatel183/LeetHub/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
