@@ -1,26 +1,18 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-         return atMost(nums, k) - atMost(nums, k - 1);
-    }
-
-    private int atMost(int[] nums, int k) {
-
-        int left=0;
-        int maxcount=0;
+        HashMap<Integer,Integer> mapp=new HashMap<>();
+        int oddcount=0;
         int count=0;
-        for(int right=0;right<nums.length;right++){
-           
-            if(nums[right] %2!=0){
-                count++; 
+        mapp.put(0,1);
+        for(int num:nums){
+            if(num%2==1){
+                oddcount++;
             }
-            while(count>k){
-                if(nums[left]%2!=0){
-                   count--; 
-                }
-                 left++;
+            if(mapp.containsKey(oddcount-k)){
+             count+=mapp.get(oddcount-k);
             }
-            maxcount+= right - left + 1;   
+            mapp.put(oddcount,mapp.getOrDefault(oddcount,0)+1);
         }
-        return maxcount;
+      return count;
     }
 }
